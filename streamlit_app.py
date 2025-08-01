@@ -81,8 +81,8 @@ Summarize the key steps and actions to try. Be concise and direct.
 """
 
 # === Streamlit Config ===
-st.set_page_config(page_title="💬 GPT Support Assistant", layout="centered")
-st.title("💬 GPT Support Assistant")
+st.set_page_config(page_title="🔧 VirtuSense AI Helpdesk", layout="centered")
+st.title("🔧 VirtuSense AI Helpdesk")
 
 # === Reset button ===
 if st.button("🔁 Reset Chat"):
